@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Beryllium TV</string>
-    <string name="fmt_cfg_page_">Config web page: %1$s</string>
-    <string name="starting_config_server">Starting config server…</string>
-    <string name="no_saved_stations">No saved stations</string>
-    <string name="fmt_channel_index" translatable="false">%1$s/%2$s</string>
-    <string name="fmt_unsupported_content_type">Unsupported Content Type(%1$s)</string>
+    <string name="app_name">Be</string>
+    <string name="starting_config_server">设置服务启动中…</string>
+    <string name="no_saved_stations">无保存的电视台</string>
+    <string name="fmt_cfg_page_">配置页面：%1$s</string>
+    <string name="fmt_unsupported_content_type">不支持此内容(ContentType: %1$s)</string>
 </resources>
